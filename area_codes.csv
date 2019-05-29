@@ -1,0 +1,326 @@
+	State	Area Code
+1	Alabama	205
+2	Alabama	251
+3	Alabama	256
+4	Alabama	334
+5	Alabama	938
+6	Alaska	907
+7	American Samoa	684
+8	Arizona	480
+9	Arizona	520
+10	Arizona	602
+11	Arizona	623
+12	Arizona	928
+13	Arkansas	479
+14	Arkansas	501
+15	Arkansas	870
+16	California	209
+17	California	213
+18	California	279
+19	California	310
+20	California	323
+21	California	408
+22	California	415
+23	California	424
+24	California	442
+25	California	510
+26	California	530
+27	California	559
+28	California	562
+29	California	619
+30	California	626
+31	California	628
+32	California	650
+33	California	657
+34	California	661
+35	California	669
+36	California	707
+37	California	714
+38	California	747
+39	California	760
+40	California	805
+41	California	818
+42	California	820
+43	California	831
+44	California	858
+45	California	909
+46	California	916
+47	California	925
+48	California	949
+49	California	951
+50	Colorado	303
+51	Colorado	719
+52	Colorado	720
+53	Colorado	970
+54	Connecticut	203
+55	Connecticut	475
+56	Connecticut	860
+57	Connecticut	959
+58	Delaware	302
+59	Florida	239
+60	Florida	305
+61	Florida	321
+62	Florida	352
+63	Florida	386
+64	Florida	407
+65	Florida	561
+66	Florida	727
+67	Florida	754
+68	Florida	772
+69	Florida	786
+70	Florida	813
+71	Florida	850
+72	Florida	863
+73	Florida	904
+74	Florida	941
+75	Florida	954
+76	Georgia	229
+77	Georgia	404
+78	Georgia	470
+79	Georgia	478
+80	Georgia	678
+81	Georgia	706
+82	Georgia	762
+83	Georgia	770
+84	Georgia	912
+85	Guam	671
+86	Hawaii	808
+87	Idaho	208
+88	Idaho	986
+89	Illinois	217
+90	Illinois	224
+91	Illinois	309
+92	Illinois	312
+93	Illinois	331
+94	Illinois	618
+95	Illinois	630
+96	Illinois	708
+97	Illinois	773
+98	Illinois	779
+99	Illinois	815
+100	Illinois	847
+101	Illinois	872
+102	Indiana	219
+103	Indiana	260
+104	Indiana	317
+105	Indiana	463
+106	Indiana	574
+107	Indiana	765
+108	Indiana	812
+109	Indiana	930
+110	Iowa	319
+111	Iowa	515
+112	Iowa	563
+113	Iowa	641
+114	Iowa	712
+115	Kansas	316
+116	Kansas	620
+117	Kansas	785
+118	Kansas	913
+119	Kentucky	270
+120	Kentucky	364
+121	Kentucky	502
+122	Kentucky	606
+123	Kentucky	859
+124	Louisiana	225
+125	Louisiana	318
+126	Louisiana	337
+127	Louisiana	504
+128	Louisiana	985
+129	Maine	207
+130	Maryland	240
+131	Maryland	301
+132	Maryland	410
+133	Maryland	443
+134	Maryland	667
+135	Massachusetts	339
+136	Massachusetts	351
+137	Massachusetts	413
+138	Massachusetts	508
+139	Massachusetts	617
+140	Massachusetts	774
+141	Massachusetts	781
+142	Massachusetts	857
+143	Massachusetts	978
+144	Michigan	231
+145	Michigan	248
+146	Michigan	269
+147	Michigan	313
+148	Michigan	517
+149	Michigan	586
+150	Michigan	616
+151	Michigan	734
+152	Michigan	810
+153	Michigan	906
+154	Michigan	947
+155	Michigan	989
+156	Minnesota	218
+157	Minnesota	320
+158	Minnesota	507
+159	Minnesota	612
+160	Minnesota	651
+161	Minnesota	763
+162	Minnesota	952
+163	Mississippi	228
+164	Mississippi	601
+165	Mississippi	662
+166	Mississippi	769
+167	Missouri	314
+168	Missouri	417
+169	Missouri	573
+170	Missouri	636
+171	Missouri	660
+172	Missouri	816
+173	Montana	406
+174	Nebraska	308
+175	Nebraska	402
+176	Nebraska	531
+177	Nevada	702
+178	Nevada	725
+179	Nevada	775
+180	New Hampshire	603
+181	New Jersey	201
+182	New Jersey	551
+183	New Jersey	609
+184	New Jersey	640
+185	New Jersey	732
+186	New Jersey	848
+187	New Jersey	856
+188	New Jersey	862
+189	New Jersey	908
+190	New Jersey	973
+191	New Mexico	505
+192	New Mexico	575
+193	New York	212
+194	New York	315
+195	New York	332
+196	New York	347
+197	New York	516
+198	New York	518
+199	New York	585
+200	New York	607
+201	New York	631
+202	New York	646
+203	New York	680
+204	New York	716
+205	New York	718
+206	New York	838
+207	New York	845
+208	New York	914
+209	New York	917
+210	New York	929
+211	New York	934
+212	North Carolina	252
+213	North Carolina	336
+214	North Carolina	704
+215	North Carolina	743
+216	North Carolina	828
+217	North Carolina	910
+218	North Carolina	919
+219	North Carolina	980
+220	North Carolina	984
+221	North Dakota	701
+222	Northern Mariana Islands	670
+223	Ohio	216
+224	Ohio	220
+225	Ohio	234
+226	Ohio	330
+227	Ohio	380
+228	Ohio	419
+229	Ohio	440
+230	Ohio	513
+231	Ohio	567
+232	Ohio	614
+233	Ohio	740
+234	Ohio	937
+235	Oklahoma	405
+236	Oklahoma	539
+237	Oklahoma	580
+238	Oklahoma	918
+239	Oregon	458
+240	Oregon	503
+241	Oregon	541
+242	Oregon	971
+243	Pennsylvania	215
+244	Pennsylvania	223
+245	Pennsylvania	267
+246	Pennsylvania	272
+247	Pennsylvania	412
+248	Pennsylvania	445
+249	Pennsylvania	484
+250	Pennsylvania	570
+251	Pennsylvania	610
+252	Pennsylvania	717
+253	Pennsylvania	724
+254	Pennsylvania	814
+255	Pennsylvania	878
+256	Puerto Rico	787
+257	Puerto Rico	939
+258	Rhode Island	401
+259	South Carolina	803
+260	South Carolina	843
+261	South Carolina	854
+262	South Carolina	864
+263	South Dakota	605
+264	Tennessee	423
+265	Tennessee	615
+266	Tennessee	629
+267	Tennessee	731
+268	Tennessee	865
+269	Tennessee	901
+270	Tennessee	931
+271	Texas	210
+272	Texas	214
+273	Texas	254
+274	Texas	281
+275	Texas	325
+276	Texas	346
+277	Texas	361
+278	Texas	409
+279	Texas	430
+280	Texas	432
+281	Texas	469
+282	Texas	512
+283	Texas	682
+284	Texas	713
+285	Texas	726
+286	Texas	737
+287	Texas	806
+288	Texas	817
+289	Texas	830
+290	Texas	832
+291	Texas	903
+292	Texas	915
+293	Texas	936
+294	Texas	940
+295	Texas	956
+296	Texas	972
+297	Texas	979
+298	Utah	385
+299	Utah	435
+300	Utah	801
+301	Vermont	802
+302	Virgin Islands	340
+303	Virginia	276
+304	Virginia	434
+305	Virginia	540
+306	Virginia	571
+307	Virginia	703
+308	Virginia	757
+309	Virginia	804
+310	Washington	206
+311	Washington	253
+312	Washington	360
+313	Washington	425
+314	Washington	509
+315	Washington	564
+316	Washington, DC	202
+317	West Virginia	304
+318	West Virginia	681
+319	Wisconsin	262
+320	Wisconsin	414
+321	Wisconsin	534
+322	Wisconsin	608
+323	Wisconsin	715
+324	Wisconsin	920
+325	Wyoming	307
